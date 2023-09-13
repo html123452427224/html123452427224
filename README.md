@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **jan.fuka@student.spsmb.cz**
 
-- 📄 Know about my experiences [i have one year knowlege in html and css](i have one year knowlege in html and css)
+- 📄 Know about my experiences [i have some knowledge in html and css](i have some knowledge in html and css)
 
-- ⚡ Fun fact **i like to play videogames**
+- ⚡ Fun fact **i like to play videogames mostly call of duty and racing games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
