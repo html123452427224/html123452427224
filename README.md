@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">beginner programmer from czech republic</h3>
 
-- 🌱 I’m currently learning **Java and javascript**
+- 🌱 I’m currently learning **Java and javascript, html and css, bootstrap**
 
 - 💬 Ask me about **html and css**
 
